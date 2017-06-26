@@ -1,0 +1,97 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.conteiner{
+	background-color: skyblue;
+	width: 100%;
+/*	height: 100%;*/
+	position: absolute;
+	top: 0;
+}
+
+.fa-eercast {
+	font-size: 100px;
+	color: black;
+}
+
+
+.clearfix::after{
+	content: "";
+	clear: both;
+	display: block;
+}
+
+.top{
+	text-align: center;
+}
+
+.text1{
+	margin: 90px 0 0 8px;
+}
+
+.border{
+	width: 30px;
+	margin: 0 auto;
+	border: solid 6px #EC715F;
+}
+
+.text2{
+	margin:30px 0; 
+}
+
+
+.boxall{
+	box-sizing :border-box;
+	height: 620px;
+	width: 940px;
+	margin: 0 auto;
+	margin-bottom: 90px;
+}
+
+
+.box{
+	height: 300px;
+	width: 300px;
+	margin:5px;
+	float: left;
+}
+
+background-color: red;
+}
+
+.a{
+	background-image: url(img/talk.jpg);
+	background-size:100% 100%;
+}
+
+.b{
+	background-image: url(img/webcamp-mother.png);
+	background-size:100% 100%;
+}
+
+.c{
+	background-image: url(img/webcamp.png);
+	background-size:100% 100%;
+}
+
+.d{
+	background-image: url(img/websuku.png);
+	background-size:100% 100%;	
+}
+
+.e{
+	background-image: url(img/write.jpg);
+	background-size:100% 100%;
+}
+
+.f{
+	background-image: url(img/talk.jpg);
+	background-size:100% 100%;
+}
+
+.g{
+	background-image: url(img/talk.jpg);
+	background-size:100% 100%;
+}
